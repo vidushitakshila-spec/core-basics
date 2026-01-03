@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "userId": "78888",
+      "functions": [
+        {
+          "functionCriteria": {
+            "functionParameter1": "GLOBAL",
+            "functionId": "77888"
+          },
+          "functionAuthorities": [
+            {
+              "functionType": "INITIALIZE",
+              "functionAmount": "250"
+            },
+            {
+              "functionType": "LIMIT",
+              "functionAmount": "2500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "78889",
+      "functions": [
+        {
+          "functionCriteria": {
+            "functionParameter1": "GLOBAL",
+            "functionId": "77889"
+          },
+          "functionAuthorities": [
+            {
+              "functionType": "INITIALIZE",
+              "functionAmount": "150"
+            },
+            {
+              "functionType": "LIMIT",
+              "functionAmount": "1500"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

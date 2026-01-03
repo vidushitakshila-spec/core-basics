@@ -1,0 +1,54 @@
+{
+  "bookingId": "B98765432",
+  "bookingDate": "2025-12-28T10:30:00Z",
+  "passengers": [
+    {
+      "passengerId": "P1",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "alice.smith@example.com",
+      "dob": "1985-05-20",
+      "gender": "F",
+      "contact": {
+        "phone": "+1 555-123-4567",
+        "address": {
+          "street": "101 Maple Ave",
+          "city": "Springfield",
+          "state": "IL",
+          "postalCode": "62704",
+          "country": "USA"
+        }
+      },
+      "loyaltyProgram": {
+        "airline": "GlobalAir",
+        "memberId": "GA12345"
+      }
+    },
+    {
+      "passengerId": "P2",
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.j@example.com",
+      "dob": "1990-11-11",
+      "gender": "M",
+      "contact": {
+        "phone": "+1 555-987-6543"
+      }
+    }
+  ],
+  "flightDetails": {
+    "flightNumber": "GA456",
+    "airline": "Global Airways",
+    "origin": "ORD",
+    "destination": "LAX",
+    "departure": "2026-01-15T09:00:00Z",
+    "arrival": "2026-01-15T11:30:00Z",
+    "class": "Business",
+    "fare": 450.75
+  },
+  "paymentInfo": {
+    "method": "CreditCard",
+    "transactionId": "TX789012",
+    "totalAmount": 901.50
+  }
+}

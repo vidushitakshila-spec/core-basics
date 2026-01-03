@@ -1,0 +1,35 @@
+{
+  "userProfile": {
+    "userId": "u12345678",
+    "userName": "Jane Doe",
+    "isActive": true,
+    "loginCount": 42,
+    "averageSessionDurationSeconds": 185.75,
+    "lastLogin": "2025-12-30T11:45:30Z",
+    "registrationDate": "2024-05-20T14:00:00-04:00",
+    "contactInfo": {
+      "email": "jane.doe@example.com",
+      "phone": "+1-555-0199"
+    },
+    "tags": ["premium", "verified", "beta-tester"],
+    "metadata": null
+  },
+  "orderHistory": [
+    {
+      "orderId": "ORD987654",
+      "item": "Laptop Model X",
+      "quantity": 1,
+      "price": 1200.00,
+      "isShipped": true,
+      "orderDateTime": "2025-12-28T09:15:00Z"
+    },
+    {
+      "orderId": "ORD123456",
+      "item": "Wireless Mouse",
+      "quantity": 2,
+      "price": 25.50,
+      "isShipped": false,
+      "orderDateTime": "2025-12-30T10:30:00Z"
+    }
+  ]
+}
