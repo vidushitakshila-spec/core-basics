@@ -1,0 +1,265 @@
+{
+  "university": "Grand Canyon University",
+  "students": [
+    {
+      "student_id": "ST1001",
+      "first_name": "Alice",
+      "last_name": "Johnson",
+      "major": "Computer Science",
+      "enrollment_status": "Active",
+      "gpa": 3.85,
+      "courses": [
+        {"course_code": "CS101", "course_name": "Introduction to Programming", "credits": 4, "grade": "A"},
+        {"course_code": "MTH210", "course_name": "Calculus I", "credits": 4, "grade": "B+"},
+        {"course_code": "ENG105", "course_name": "College Composition", "credits": 3, "grade": "A-"}
+      ]
+    },
+    {
+      "student_id": "ST1002",
+      "first_name": "Bob",
+      "last_name": "Smith",
+      "major": "Biology",
+      "enrollment_status": "Active",
+      "gpa": 3.20,
+      "courses": [
+        {"course_code": "BIO181", "course_name": "General Biology I", "credits": 4, "grade": "B"},
+        {"course_code": "CHM113", "course_name": "General Chemistry I", "credits": 4, "grade": "C+"},
+        {"course_code": "COM102", "course_name": "Public Speaking", "credits": 3, "grade": "A"}
+      ]
+    },
+    {
+      "student_id": "ST1003",
+      "first_name": "Charlie",
+      "last_name": "Williams",
+      "major": "Business Administration",
+      "enrollment_status": "Active",
+      "gpa": 3.91,
+      "courses": [
+        {"course_code": "BUS101", "course_name": "Introduction to Business", "credits": 3, "grade": "A"},
+        {"course_code": "ACC250", "course_name": "Financial Accounting", "credits": 3, "grade": "A-"},
+        {"course_code": "ECO201", "course_name": "Macroeconomics", "credits": 3, "grade": "A"}
+      ]
+    },
+    {
+      "student_id": "ST1004",
+      "first_name": "Diana",
+      "last_name": "Brown",
+      "major": "Nursing",
+      "enrollment_status": "Active",
+      "gpa": 3.55,
+      "courses": [
+        {"course_code": "NUR150", "course_name": "Foundations of Nursing", "credits": 3, "grade": "B+"},
+        {"course_code": "BIO201", "course_name": "Anatomy & Physiology I", "credits": 4, "grade": "A-"},
+        {"course_code": "PSY102", "course_name": "General Psychology", "credits": 3, "grade": "B"}
+      ]
+    },
+    {
+      "student_id": "ST1005",
+      "first_name": "Ethan",
+      "last_name": "Jones",
+      "major": "Engineering",
+      "enrollment_status": "Active",
+      "gpa": 3.10,
+      "courses": [
+        {"course_code": "EGR101", "course_name": "Intro to Engineering", "credits": 3, "grade": "B"},
+        {"course_code": "PHY205", "course_name": "Physics for Engineers I", "credits": 4, "grade": "C+"},
+        {"course_code": "MTH211", "course_name": "Calculus II", "credits": 4, "grade": "B-"}
+      ]
+    },
+    {
+      "student_id": "ST1006",
+      "first_name": "Fiona",
+      "last_name": "Garcia",
+      "major": "Psychology",
+      "enrollment_status": "Active",
+      "gpa": 3.75,
+      "courses": [
+        {"course_code": "PSY102", "course_name": "General Psychology", "credits": 3, "grade": "A"},
+        {"course_code": "SOC101", "course_name": "Introduction to Sociology", "credits": 3, "grade": "B+"},
+        {"course_code": "ENG106", "course_name": "Critical Reading & Writing", "credits": 3, "grade": "A-"}
+      ]
+    },
+    {
+      "student_id": "ST1007",
+      "first_name": "George",
+      "last_name": "Miller",
+      "major": "Criminal Justice",
+      "enrollment_status": "Active",
+      "gpa": 2.90,
+      "courses": [
+        {"course_code": "CRI110", "course_name": "Intro to Criminal Justice", "credits": 3, "grade": "B-"},
+        {"course_code": "GOV140", "course_name": "American Government", "credits": 3, "grade": "C+"},
+        {"course_code": "HIS110", "course_name": "World History I", "credits": 3, "grade": "B"}
+      ]
+    },
+    {
+      "student_id": "ST1008",
+      "first_name": "Hannah",
+      "last_name": "Davis",
+      "major": "Graphic Design",
+      "enrollment_status": "Active",
+      "gpa": 3.60,
+      "courses": [
+        {"course_code": "GRD101", "course_name": "Foundations of Design", "credits": 3, "grade": "A-"},
+        {"course_code": "ART101", "course_name": "Drawing I", "credits": 3, "grade": "B+"},
+        {"course_code": "CS150", "course_name": "Digital Tools", "credits": 3, "grade": "A"}
+      ]
+    },
+    {
+      "student_id": "ST1009",
+      "first_name": "Ian",
+      "last_name": "Rodriguez",
+      "major": "Theology",
+      "enrollment_status": "Active",
+      "gpa": 4.00,
+      "courses": [
+        {"course_code": "THE101", "course_name": "Introduction to Theology", "credits": 3, "grade": "A"},
+        {"course_code": "BIB102", "course_name": "Old Testament Survey", "credits": 3, "grade": "A"},
+        {"course_code": "PHI105", "course_name": "Introduction to Philosophy", "credits": 3, "grade": "A"}
+      ]
+    },
+    {
+      "student_id": "ST1010",
+      "first_name": "Jenna",
+      "last_name": "Martinez",
+      "major": "Education",
+      "enrollment_status": "Active",
+      "gpa": 3.88,
+      "courses": [
+        {"course_code": "EDU200", "course_name": "Foundations of Education", "credits": 3, "grade": "A-"},
+        {"course_code": "PSY250", "course_name": "Educational Psychology", "credits": 3, "grade": "A"},
+        {"course_code": "SPE310", "course_name": "Intro to Special Education", "credits": 3, "grade": "A"}
+      ]
+    },
+    {
+      "student_id": "ST1011",
+      "first_name": "Kevin",
+      "last_name": "Hernandez",
+      "major": "Computer Science",
+      "enrollment_status": "Active",
+      "gpa": 3.00,
+      "courses": [
+        {"course_code": "CS101", "course_name": "Introduction to Programming", "credits": 4, "grade": "B-"},
+        {"course_code": "MTH210", "course_name": "Calculus I", "credits": 4, "grade": "C"},
+        {"course_code": "PHY205", "course_name": "Physics for Engineers I", "credits": 4, "grade": "B+"}
+      ]
+    },
+    {
+      "student_id": "ST1012",
+      "first_name": "Laura",
+      "last_name": "Lopez",
+      "major": "Biology",
+      "enrollment_status": "Active",
+      "gpa": 3.45,
+      "courses": [
+        {"course_code": "BIO181", "course_name": "General Biology I", "credits": 4, "grade": "B+"},
+        {"course_code": "CHM113", "course_name": "General Chemistry I", "credits": 4, "grade": "B"},
+        {"course_code": "ENG106", "course_name": "Critical Reading & Writing", "credits": 3, "grade": "A-"}
+      ]
+    },
+    {
+      "student_id": "ST1013",
+      "first_name": "Michael",
+      "last_name": "Gonzalez",
+      "major": "Business Administration",
+      "enrollment_status": "Active",
+      "gpa": 3.25,
+      "courses": [
+        {"course_code": "BUS101", "course_name": "Introduction to Business", "credits": 3, "grade": "B"},
+        {"course_code": "ACC250", "course_name": "Financial Accounting", "credits": 3, "grade": "B-"},
+        {"course_code": "ECO201", "course_name": "Macroeconomics", "credits": 3, "grade": "B+"}
+      ]
+    },
+    {
+      "student_id": "ST1014",
+      "first_name": "Nina",
+      "last_name": "Wilson",
+      "major": "Nursing",
+      "enrollment_status": "Active",
+      "gpa": 3.80,
+      "courses": [
+        {"course_code": "NUR150", "course_name": "Foundations of Nursing", "credits": 3, "grade": "A-"},
+        {"course_code": "BIO201", "course_name": "Anatomy & Physiology I", "credits": 4, "grade": "A"},
+        {"course_code": "PSY102", "course_name": "General Psychology", "credits": 3, "grade": "B+"}
+      ]
+    },
+    {
+      "student_id": "ST1015",
+      "first_name": "Oscar",
+      "last_name": "Anderson",
+      "major": "Engineering",
+      "enrollment_status": "Active",
+      "gpa": 2.85,
+      "courses": [
+        {"course_code": "EGR101", "course_name": "Intro to Engineering", "credits": 3, "grade": "C+"},
+        {"course_code": "PHY205", "course_name": "Physics for Engineers I", "credits": 4, "grade": "D+"},
+        {"course_code": "MTH211", "course_name": "Calculus II", "credits": 4, "grade": "C-"}
+      ]
+    },
+    {
+      "student_id": "ST1016",
+      "first_name": "Paula",
+      "last_name": "Thomas",
+      "major": "Psychology",
+      "enrollment_status": "Active",
+      "gpa": 3.95,
+      "courses": [
+        {"course_code": "PSY102", "course_name": "General Psychology", "credits": 3, "grade": "A"},
+        {"course_code": "SOC101", "course_name": "Introduction to Sociology", "credits": 3, "grade": "A-"},
+        {"course_code": "ENG106", "course_name": "Critical Reading & Writing", "credits": 3, "grade": "A"}
+      ]
+    },
+    {
+      "student_id": "ST1017",
+      "first_name": "Quinn",
+      "last_name": "Taylor",
+      "major": "Criminal Justice",
+      "enrollment_status": "Active",
+      "gpa": 3.15,
+      "courses": [
+        {"course_code": "CRI110", "course_name": "Intro to Criminal Justice", "credits": 3, "grade": "B"},
+        {"course_code": "GOV140", "course_name": "American Government", "credits": 3, "grade": "B-"},
+        {"course_code": "HIS110", "course_name": "World History I", "credits": 3, "grade": "B+"}
+      ]
+    },
+    {
+      "student_id": "ST1018",
+      "first_name": "Ryan",
+      "last_name": "Moore",
+      "major": "Graphic Design",
+      "enrollment_status": "Active",
+      "gpa": 3.40,
+      "courses": [
+        {"course_code": "GRD101", "course_name": "Foundations of Design", "credits": 3, "grade": "B+"},
+        {"course_code": "ART101", "course_name": "Drawing I", "credits": 3, "grade": "B"},
+        {"course_code": "CS150", "course_name": "Digital Tools", "credits": 3, "grade": "A-"}
+      ]
+    },
+    {
+      "student_id": "ST1019",
+      "first_name": "Sara",
+      "last_name": "Jackson",
+      "major": "Theology",
+      "enrollment_status": "Active",
+      "gpa": 3.70,
+      "courses": [
+        {"course_code": "THE101", "course_name": "Introduction to Theology", "credits": 3, "grade": "A-"},
+        {"course_code": "BIB102", "course_name": "Old Testament Survey", "credits": 3, "grade": "B+"},
+        {"course_code": "PHI105", "course_name": "Introduction to Philosophy", "credits": 3, "grade": "A"}
+      ]
+    },
+    {
+      "student_id": "ST1020",
+      "first_name": "Tom",
+      "last_name": "White",
+      "major": "Education",
+      "enrollment_status": "Active",
+      "gpa": 3.20,
+      "courses": [
+        {"course_code": "EDU200", "course_name": "Foundations of Education", "credits": 3, "grade": "B"},
+        {"course_code": "PSY250", "course_name": "Educational Psychology", "credits": 3, "grade": "B-"},
+        {"course_code": "SPE310", "course_name": "Intro to Special Education", "credits": 3, "grade": "B+"}
+      ]
+    }
+  ]
+}

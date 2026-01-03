@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders company="PhotoBook">
+    <!-- Record 1 -->
+    <Order id="SF-10001">
+        <Customer id="CUST-8821">John Smith</Customer>
+        <Status>Processing</Status>
+        <Items>
+            <Item type="Print">
+                <Size>4x6</Size>
+                <Finish>Matte</Finish>
+                <Quantity>25</Quantity>
+                <Price>0.15</Price>
+            </Item>
+        </Items>
+    </Order>
+    <!-- Record 2 -->
+    <Order id="SF-10002">
+        <Customer id="CUST-4512">Jane Doe</Customer>
+        <Status>Shipped</Status>
+        <Items>
+            <Item type="Photo Book">
+                <Size>8x8</Size>
+                <Cover>Hardcover</Cover>
+                <Quantity>1</Quantity>
+                <Price>29.99</Price>
+            </Item>
+        </Items>
+    </Order>
+    <!-- Record 3 -->
+    <Order id="SF-10003">
+        <Customer id="CUST-9903">Robert Brown</Customer>
+        <Status>Completed</Status>
+        <Items>
+            <Item type="Canvas">
+                <Size>16x20</Size>
+                <Quantity>1</Quantity>
+                <Price>45.50</Price>
+            </Item>
+        </Items>
+    </Order>
+    <!-- Record 4 -->
+    <Order id="SF-10004">
+        <Customer id="CUST-2134">Emily White</Customer>
+        <Status>Pending</Status>
+        <Items>
+            <Item type="Print">
+                <Size>5x7</Size>
+                <Finish>Glossy</Finish>
+                <Quantity>10</Quantity>
+                <Price>0.70</Price>
+            </Item>
+        </Items>
+    </Order>
+    <!-- Record 5 -->
+    <Order id="SF-10005">
+        <Customer id="CUST-7765">Michael Green</Customer>
+        <Status>Processing</Status>
+        <Items>
+            <Item type="Calendar">
+                <Size>8x11</Size>
+                <Quantity>2</Quantity>
+                <Price>19.99</Price>
+            </Item>
+        </Items>
+    </Order>
+    <!-- Record 6 -->
+    <Order id="SF-10006">
+        <Customer id="CUST-3342">Sarah Hall</Customer>
+        <Status>Cancelled</Status>
+        <Items>
+            <Item type="Cards">
+                <Type>Greeting Card</Type>
+                <Quantity>20</Quantity>
+                <Price>1.50</Price>
+            </Item>
+        </Items>
+    </Order>
+    <!-- Record 7 -->
+    <Order id="SF-10007">
+        <Customer id="CUST-1129">William King</Customer>
+        <Status>Shipped</Status>
+        <Items>
+            <Item type="Print">
+                <Size>8x10</Size>
+                <Finish>Matte</Finish>
+                <Quantity>5</Quantity>
+                <Price>3.99</Price>
+            </Item>
+        </Items>
+    </Order>
+    <!-- Record 8 -->
+    <Order id="SF-10008">
+        <Customer id="CUST-5561">Linda Scott</Customer>
+        <Status>Processing</Status>
+        <Items>
+            <Item type="Mug">
+                <Capacity>11oz</Capacity>
+                <Quantity>1</Quantity>
+                <Price>12.99</Price>
+            </Item>
+        </Items>
+    </Order>
+    <!-- Record 9 -->
+    <Order id="SF-10009">
+        <Customer id="CUST-8812">David Adams</Customer>
+        <Status>Pending</Status>
+        <Items>
+            <Item type="Print">
+                <Size>4x6</Size>
+                <Finish>Glossy</Finish>
+                <Quantity>50</Quantity>
+                <Price>0.15</Price>
+            </Item>
+        </Items>
+    </Order>
+    <!-- Record 10 -->
+    <Order id="SF-10010">
+        <Customer id="CUST-6654">Karen Baker</Customer>
+        <Status>Completed</Status>
+        <Items>
+            <Item type="Photo Book">
+                <Size>11x14</Size>
+                <Cover>Layflat</Cover>
+                <Quantity>1</Quantity>
+                <Price>59.99</Price>
+            </Item>
+        </Items>
+    </Order>
+</Orders>
